@@ -1,0 +1,45 @@
+# ============ Word 临时文件 ============
+~$*
+~WRL*.tmp
+
+# ============ Python 缓存 ============
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ============ 实验结果/输出（可重跑生成） ============
+Lab*/output/
+
+# ============ 原始资料压缩包（太大，本地保留即可） ============
+实验原始资料/
+
+# ============ Lab6 超大数据文件（~1GB，从原始zip可重新解压） ============
+Lab6/data/
+
+# ============ Lab8 文本分类数据（~54MB parquet文件） ============
+Lab8/data/
+
+# ============ Lab9 模型文件（~160MB，可重新训练）和训练图像（~200MB） ============
+Lab9/*.pkl
+Lab9/train/
+Lab9/test/
+Lab9/src.zip
+
+# ============ Lab10 爬虫下载的临时图片素材 ============
+Lab10/data/image1/
+Lab10/data/image2/
+image1/          # 根目录下的旧爬虫图片
+
+# ============ VS Code / IDE 临时文件 ============
+tempCodeRunnerFile.py
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============ 系统文件 ============
+.DS_Store
+Thumbs.db

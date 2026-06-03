@@ -1,0 +1,8 @@
+'name': 'IBM', 'shares': 100, 'price': 91.1
+'name': 'AAPL', 'shares': 50, 'price': 543.22
+'name': 'PCB', 'shares': 100, 'price': 271.61
+'name': 'FB', 'shares': 150, 'price': 21.40
+'name': 'HPQ', 'shares': 30, 'price': 32.05
+'name': 'YHOO', 'shares': 45, 'price': 16.35
+'name': 'ACME', 'shares': 75, 'price': 115.65
+'name': 'QK', 'shares': 75, 'price': 42.80
