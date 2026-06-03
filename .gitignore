@@ -40,6 +40,10 @@ tempCodeRunnerFile.py
 *.swo
 *~
 
+# ============ Claude AI 配置文件 ============
+CLAUDE.md
+.claude/
+
 # ============ 系统文件 ============
 .DS_Store
 Thumbs.db
